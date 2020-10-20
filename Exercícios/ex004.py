@@ -1,0 +1,10 @@
+#MOSTRANDO CARASCTERISTICAS DA VARIÁVEL
+a = input('Digite algo: ')
+print('O tipo primitivo desse valor é ', type(a))
+print('So tem espaco? ', a.isspace())
+print('Ele e um numero? ', a.isnumeric())
+print('e alfabetico? ', a.isalpha())
+print('e alfanumerico? ', a.isalnum())
+print('esta em maisculo? ', a.isupper())
+print('esta em minusculo? ', a.islower())
+print('esta capitalizado? ', a.istitle())

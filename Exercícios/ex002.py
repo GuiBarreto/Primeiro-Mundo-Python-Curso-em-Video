@@ -1,4 +1,4 @@
-#perguntando nome e idade e comprimentando
+#COMPRIMENTAR O USUÁRIO
 nome = input('digite seu nome:')
 idade = input('você tem quantos anos? ')
 print ('Prazer em te conhecer, {} de {} anos!'.format(nome, idade) )

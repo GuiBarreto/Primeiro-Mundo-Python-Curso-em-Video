@@ -1,4 +1,4 @@
-#CONVERSOR DE MEDIDAS
+# CONVERSOR DE UNIDADE DE MEDIDAS DE DISTÂNCIA
 n = float(input('digite um valor em metros: '))
 km = n/1000
 hm = n/100

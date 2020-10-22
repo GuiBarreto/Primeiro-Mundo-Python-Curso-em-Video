@@ -1,4 +1,4 @@
-#MOSTRANDO CARASCTERISTICAS DA VARIÁVEL
+#MOSTRANDO CARASCTERISTICAS DA STRING
 a = input('Digite algo: ')
 print('O tipo primitivo desse valor é ', type(a))
 print('So tem espaco? ', a.isspace())

@@ -1,4 +1,4 @@
-#SOMA DE 2 NÚMEROS
+#MOSTRANDO A SOMA DE 2 NÚMEROS 
 n1 = int(input('digite um numero '))
 n2 = int(input('digite outro numero '))
 s = n1 + n2 

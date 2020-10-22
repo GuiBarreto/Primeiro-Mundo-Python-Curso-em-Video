@@ -1,4 +1,4 @@
-#TABUADA 
+#TABUADA DE ZERO A DEZ DE UM NÚMERO ESCOLHIDO
 n = int(input('digite um numero: '))
 t1 = 1*n
 t2 = 2*n

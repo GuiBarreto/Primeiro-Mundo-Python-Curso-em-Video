@@ -1,4 +1,4 @@
-#SUCESSOR E ANTECESSOR DE UM NÚMERO
+#SUCESSOR E ANTECESSOR DE UM NÚMERO ESCOLHIDO
 n = int(input('Digite um numero: '))
 s = n+1
 a = n-1

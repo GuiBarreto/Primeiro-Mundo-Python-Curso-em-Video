@@ -1,3 +1,4 @@
+#ANALISANDO UM NÚMERO
 num = int(input('Informe um número: '))
 u = num // 1 % 10
 d = num // 10 % 10

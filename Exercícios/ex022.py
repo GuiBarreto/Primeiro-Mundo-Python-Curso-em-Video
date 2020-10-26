@@ -1,3 +1,4 @@
+#ANALISANDO NOME
 nome = str(input('Digite seu Nome completo: ')).strip()
 print('Analisando seu nome.....')
 print('Seu nome em maiusculo fica {} '.format(nome.upper()))

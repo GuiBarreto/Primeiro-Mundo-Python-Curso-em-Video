@@ -1,3 +1,4 @@
+#LISTA RANDOM USANDO SUFFLE
 import random
 n1 = str(input('primeiro aluno: '))
 n2 = str(input('segundo aluno: '))

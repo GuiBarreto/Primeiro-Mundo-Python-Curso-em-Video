@@ -1,3 +1,4 @@
+#lista random
 from random import choice 
 n1 = str(input('primeiro aluno: '))
 n2 = str(input('segundo aluno: '))

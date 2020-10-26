@@ -1,3 +1,4 @@
+#SENO COSSENO TANGENTE
 import math
 ângulo = float(input('Digite o valor do ângulo: '))
 seno = math.sin(math.radians(ângulo))

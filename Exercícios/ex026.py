@@ -1,3 +1,4 @@
+#ANALISADOR DE FRASE
 frase = str(input('Digite uma frase: ')).upper().strip()
 print('Tem {} letras A na frase'.format(frase.count('A')))
 print('A primeira letra A apareceu na posição {}' .format(frase.find('A') + 1))

@@ -1,3 +1,4 @@
+#AULA SOBRE IMPORTAR UMA FUNÇAO DA BIBLIOTECA
 from math import sqrt
 cato = float(input('Digite o cateto oposto: '))
 cata = float(input('Digite o cateto adjacente: '))

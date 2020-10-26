@@ -1,3 +1,4 @@
+#AULA SOBRE IMPORTAR BIBLIOTECAS
 from math import sqrt
 num = int(input('Digite um numero: '))
 raiz = sqrt(num)

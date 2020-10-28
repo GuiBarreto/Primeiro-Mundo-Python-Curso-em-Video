@@ -1,3 +1,4 @@
+#CUSTO DE VIAGEM
 distancia = float(input('Qual a distância em Km da sua viagem?'))
 perto = distancia * 0.5
 longe = distancia * 0.45

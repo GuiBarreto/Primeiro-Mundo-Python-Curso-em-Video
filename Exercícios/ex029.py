@@ -1,3 +1,4 @@
+#VERIFICADOR DE MULTA E VALOR DA MULTA
 velocidade = float(input('Qual a velocidade em Km/H do seu carro? '))
 multa = (velocidade - 80) * 7
 if velocidade > 80:

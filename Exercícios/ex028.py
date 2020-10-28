@@ -1,3 +1,4 @@
+#JOGO DA ESCOLHA DE ZERO A 5
 from random import choice
 n0 = 0
 n1 = 1

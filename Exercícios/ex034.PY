@@ -1,3 +1,4 @@
+#AUMENTO DO SALÁRIO
 salario = float(input('Digite seu salário R$:'))
 maior = salario * 0.10
 menor = salario * 0.15
